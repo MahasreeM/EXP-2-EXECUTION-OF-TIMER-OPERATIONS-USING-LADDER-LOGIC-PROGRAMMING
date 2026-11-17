@@ -1,10 +1,10 @@
 # EXECUTION-OF-TIMER-OPERATIONS-USING-LADDER-LOGIC-PROGRAMMING
 
 
- #### NAME :
- #### REGISTER NUMBER :
- #### DEPARTMENT 
- #### YEAR 
+ #### NAME : MAHA SHREE M
+ #### REGISTER NUMBER : 212224110035
+ #### DEPARTMENT : B.E.CSE(IOT)
+ #### YEAR : 3RD YEAR
 
  
 # Aim:
@@ -82,12 +82,16 @@ Retentive Timer: The output should turn on after the accumulated time reaches th
 
 # Simulation Screenshots 
 
+<img width="936" height="330" alt="image" src="https://github.com/user-attachments/assets/53fd1c36-2d89-4657-a26e-d401159be377" />
 
 
+<img width="853" height="330" alt="image" src="https://github.com/user-attachments/assets/e1637989-2332-4108-9651-f9aa00b725db" />
 
 
+<img width="795" height="377" alt="image" src="https://github.com/user-attachments/assets/ef2564ca-cb96-4a25-8649-787e7244d1d0" />
 
 
+<img width="787" height="445" alt="image" src="https://github.com/user-attachments/assets/7a666db0-601e-4dda-8ec5-4fbda7779748" />
 
 
 
